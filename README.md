@@ -1,3 +1,4 @@
+[swjtu logo](./images/logo-swjtu-simple.png) 
 ## 项目简介
 这是xxxx团队的项目。
 主要是
