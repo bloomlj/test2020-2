@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 # 作业列表
 ## 1 3D建模 
-[李君的Arduino外壳](assment/1/20190000.stl)
+[李君的Arduino外壳](./assment/1/20190000.stl)
 
 
 
