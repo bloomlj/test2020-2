@@ -9,26 +9,19 @@
 
 
 ## 团队介绍
-### 李君
-西南交通大学信息学院老师
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-#
 ## 李君
 西南交通大学信息学院老师
 
 
 # 作业列表
 ## 1 3D建模 
-[李君的Arduino外壳](https://github.com/bloomlj/test2020-2/blob/master/assment/1/20190000.stl)
+[李君的Arduino外壳](assment/1/20190000.stl)
 
 
 
+```markdown
+Syntax highlighted code block
 
 - Bulleted
 - List
